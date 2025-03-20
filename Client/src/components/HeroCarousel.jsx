@@ -12,7 +12,7 @@ const HeroCarousel = () => {
       buttonColor: "bg-gradient-to-r from-[#40E0D0] to-[#2E8B57] hover:from-[#36CFC9] hover:to-[#228B22]",
 
     
-      image: "/assets/cor.jpg"  // Replace with your image URL
+      image: "./assets/cor.jpg"  // Replace with your image URL
     },
     
     {
@@ -22,7 +22,7 @@ const HeroCarousel = () => {
       buttonText: "Plan Your Day",
       buttonColor: "bg-pink-600 hover:bg-pink-700",
       
-      image: "/assets/wed1.jpg"  // Replace with your image URL
+      image: "./assets/wed1.jpg"  // Replace with your image URL
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ const HeroCarousel = () => {
 
 
       
-      image: "/assets/music1.jpeg"  // Replace with your image URL
+      image: "./assets/music1.jpeg"  // Replace with your image URL
     },
     {
       id: 4,
@@ -43,7 +43,7 @@ const HeroCarousel = () => {
       buttonColor: "bg-gradient-to-r from-[#40E0D0]/50 to-[#1E90FF]/50 hover:from-[#36CFC9]/70 hover:to-[#007FFF]/70",
 
     
-      image: "/assets/virtual1.jpg"  // Replace with your image URL
+      image: "./assets/virtual1.jpg"  // Replace with your image URL
     },
   ];
 
