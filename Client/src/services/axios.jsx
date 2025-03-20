@@ -3,8 +3,7 @@ import axios from "axios";
 
 
 const instance = axios.create({
-   // baseURL: 'https://partypilot-rb4j.onrender.com/api',
-   baseURL: 'http://localhost:5005/api',
+    baseURL: 'https://partypilotz.onrender.com',
     headers: { 'Content-Type': 'application/json' },
   });
 
